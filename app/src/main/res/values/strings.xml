@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coap Client</string>
+
+    <string name="label_uri">URI</string>
+    <string name="label_button">GET</string>
+
+    <string name="action_sandbox">californium.eclipse.org</string>
+    <string name="laptop">laptop</string>
+
+    <string name="uri_sandbox">coap://californium.eclipse.org:5683</string>
+    <string name="uri_laptop">coap://[fe80:0:0:0:9e32:7f36:18b2:457a]:5683/protected</string>
+</resources>
